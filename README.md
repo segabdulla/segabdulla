@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @segabdulla
-- 👀 I’m interested in industry cutting-edge technology
-- 🌱 I’m currently learning reactjs and nestjs
-- 💞️ I’m working at Segwitz
+- 👀 Interested in industry cutting-edge technology
+- 🌱 Currently kicking with reactjs and nestjs
+- 💞️ Working at Segwitz
 - 📫 Reach me at instagram,facebook, twitter, linkedin by @menomanabdulla
 
 <!---
